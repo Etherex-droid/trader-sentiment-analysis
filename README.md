@@ -10,7 +10,7 @@ This project analyzes how market sentiment (Fear/Greed Index) relates to trader 
 ---
 
 ## What is inside this repo
-
+```
 trader-sentiment-analysis/
 │
 ├── analysis.ipynb # Main analysis notebook (everything is here)
@@ -23,7 +23,7 @@ trader-sentiment-analysis/
 │ └── charts/ # Key plots from the analysis
 │
 └── app.py # (Optional) Streamlit dashboard
-
+```
 ---
 
 ## How to run this project
@@ -138,3 +138,4 @@ This helped identify different trader profiles (e.g., high-risk/high-reward vs s
 #### Streamlit Dashboard  
 A lightweight Streamlit dashboard was built to explore key metrics and visualizations interactively.
 ---
+
